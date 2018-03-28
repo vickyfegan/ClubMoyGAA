@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "393213769357",
+    "firebase_url": "https://clubmoygaa2018.firebaseio.com",
+    "project_id": "clubmoygaa2018",
+    "storage_bucket": "clubmoygaa2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393213769357:android:4969d592d654b866",
+        "android_client_info": {
+          "package_name": "com.example.b00663982.clubmoygaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393213769357-2ldfvcad42l02tfuui6c9gecb4ghumds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNdbQevR-4E3MkUKyoipkMUOZoR_MEro8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ClubMoyGAA</string>
+    <string name="payment_id">Payment ID</string>
+    <string name="textview">TextView</string>
+    <string name="payment_status">Payment Status</string>
+    <string name="emailSignUp">Enter Email</string>
+    <string name="crestSignUp">TODO</string>
+    <string name="passwordSignUp">Enter Password</string>
+    <string name="registerButton">Login</string>
+    <string name="not_signed_up_yet_sign_up_here">Not signed up yet? Sign up here!</string>
+    <string name="emailLogin">Enter Email</string>
+    <string name="passwordLogin">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="registerClick">Not signed up yet? Sign up here!</string>
+    <string name="loginCrest">TODO</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account_log_in_here">Already have an account? Log in here</string>
+</resources>
